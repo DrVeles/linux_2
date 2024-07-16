@@ -16,11 +16,9 @@
                 "id": "b8652568f6c50d36",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "src/readme_rus.md",
-                    "mode": "source",
-                    "source": true
+                    "file": "src/misc/part4/image.png"
                   }
                 },
                 "group": "693ef37d86051e6b"
@@ -36,11 +34,9 @@
                 "id": "1eedb4a888c3cca3",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "image",
                   "state": {
-                    "file": "src/readme_rus.md",
-                    "mode": "preview",
-                    "source": true
+                    "file": "src/misc/part4/image.png"
                   }
                 },
                 "group": "693ef37d86051e6b"
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/readme_rus.md",
+                "file": "src/misc/part4/image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/readme_rus.md",
+                "file": "src/misc/part4/image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/readme_rus.md"
+                "file": "src/misc/part4/image.png"
               }
             }
           }
@@ -175,23 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8652568f6c50d36",
+  "active": "fc10db8f009fc33b",
   "lastOpenFiles": [
-    "src/Pasted image 20240716170911.png",
-    "src/Pasted image 20240716170844.png",
-    "src/misc/part2/Pasted image 20240716154810.png",
     "src/readme_rus.md",
+    "src/misc/part4/Pasted image 20240716193358.png",
+    "README_RUS.md",
+    "src/misc/part3/Pasted image 20240716170844.png",
+    "src/image-4.png",
+    "src/misc/part4",
+    "src/misc/part3",
+    "src/misc/part4/image-3.png",
+    "src/misc/part4/image-2.png",
+    "src/misc/part4/image-1.png",
+    "src/misc/part4/image.png",
+    "src/misc/part3/Pasted image 20240716170911.png",
+    "src/misc/part2/Pasted image 20240716154810.png",
     "src/misc/part1/p1-2.png",
-    "src/misc/part1/p1-1.png",
-    "src/misc/part1/p1-4.png",
-    "src/misc/part1/p1-0.png",
-    "src/misc/part2/p2-1.png",
-    "src/misc/part2/Pasted image 20240716154755.png",
-    "src/misc/part2/Pasted image 20240716154124.png",
-    "src/misc/part2/Pasted image 20240716154108.png",
     "src/misc/part2",
     "src/misc/Untitled.md",
-    "README_RUS.md",
     "src/readme.md",
     "README.md"
   ]

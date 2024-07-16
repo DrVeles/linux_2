@@ -10,7 +10,7 @@
           {
             "id": "42a565b1c604206b",
             "type": "tabs",
-            "dimension": 42.79661016949153,
+            "dimension": 36.39575971731448,
             "children": [
               {
                 "id": "b8652568f6c50d36",
@@ -22,14 +22,15 @@
                     "mode": "source",
                     "source": true
                   }
-                }
+                },
+                "group": "693ef37d86051e6b"
               }
             ]
           },
           {
             "id": "63fda36fb0deadde",
             "type": "tabs",
-            "dimension": 57.20338983050848,
+            "dimension": 63.60424028268551,
             "children": [
               {
                 "id": "1eedb4a888c3cca3",
@@ -37,11 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "src/readme.md",
+                    "file": "src/readme_rus.md",
                     "mode": "source",
                     "source": true
                   }
-                }
+                },
+                "group": "693ef37d86051e6b"
               }
             ]
           }
@@ -96,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2b74d8389bec799a",
@@ -175,12 +177,21 @@
   },
   "active": "b8652568f6c50d36",
   "lastOpenFiles": [
-    "src/readme.md",
+    "src/misc/part2/Pasted image 20240716154810.png",
     "src/readme_rus.md",
-    "src/misc/part1/p1-2 1.png",
+    "src/misc/part1/p1-2.png",
+    "src/misc/part1/p1-1.png",
+    "src/misc/part1/p1-4.png",
+    "src/misc/part1/p1-0.png",
+    "src/misc/part2/p2-1.png",
+    "src/misc/part2/Pasted image 20240716154755.png",
+    "src/misc/part2/Pasted image 20240716154124.png",
+    "src/misc/part2/Pasted image 20240716154108.png",
+    "src/misc/part2/Pasted image 20240716152627.png",
+    "src/misc/part2",
+    "src/misc/Untitled.md",
     "README_RUS.md",
-    "src/misc/part1/p1-3.png",
-    "README.md",
-    "src/misc/part1/p1-2.png"
+    "src/readme.md",
+    "README.md"
   ]
 }

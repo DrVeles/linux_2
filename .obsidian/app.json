@@ -1,5 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "livePreview": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./"
 }

@@ -39,7 +39,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "src/readme_rus.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 },
@@ -177,6 +177,8 @@
   },
   "active": "b8652568f6c50d36",
   "lastOpenFiles": [
+    "src/Pasted image 20240716170911.png",
+    "src/Pasted image 20240716170844.png",
     "src/misc/part2/Pasted image 20240716154810.png",
     "src/readme_rus.md",
     "src/misc/part1/p1-2.png",
@@ -187,7 +189,6 @@
     "src/misc/part2/Pasted image 20240716154755.png",
     "src/misc/part2/Pasted image 20240716154124.png",
     "src/misc/part2/Pasted image 20240716154108.png",
-    "src/misc/part2/Pasted image 20240716152627.png",
     "src/misc/part2",
     "src/misc/Untitled.md",
     "README_RUS.md",

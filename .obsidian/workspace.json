@@ -10,7 +10,7 @@
           {
             "id": "42a565b1c604206b",
             "type": "tabs",
-            "dimension": 36.39575971731448,
+            "dimension": 48.76325088339223,
             "children": [
               {
                 "id": "b8652568f6c50d36",
@@ -18,28 +18,28 @@
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "src/misc/part4/image.png"
+                    "file": "src/misc/part5/Pasted image 20240717123311.png"
                   }
                 },
-                "group": "693ef37d86051e6b"
+                "group": "6053dc438a009d3c"
               }
             ]
           },
           {
             "id": "63fda36fb0deadde",
             "type": "tabs",
-            "dimension": 63.60424028268551,
+            "dimension": 51.23674911660777,
             "children": [
               {
-                "id": "1eedb4a888c3cca3",
+                "id": "df2ac9778f4bc137",
                 "type": "leaf",
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "src/misc/part4/image.png"
+                    "file": "src/misc/part5/Pasted image 20240717123311.png"
                   }
                 },
-                "group": "693ef37d86051e6b"
+                "group": "6053dc438a009d3c"
               }
             ]
           }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/misc/part4/image.png",
+                "file": "src/misc/part5/Pasted image 20240717123311.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/misc/part4/image.png",
+                "file": "src/misc/part5/Pasted image 20240717123311.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/misc/part4/image.png"
+                "file": "src/misc/part5/Pasted image 20240717123311.png"
               }
             }
           }
@@ -174,22 +174,49 @@
   "active": "fc10db8f009fc33b",
   "lastOpenFiles": [
     "src/readme_rus.md",
-    "src/misc/part4/Pasted image 20240716193358.png",
+    "src/misc/part5/Pasted image 20240717175309.png",
+    "src/misc/part5/Pasted image 20240717175257.png",
+    "src/misc/part5/Pasted image 20240717175241.png",
+    "src/misc/part5/Pasted image 20240717175001.png",
+    "src/misc/part5/Pasted image 20240717174944.png",
+    "src/misc/part5/Pasted image 20240717174856.png",
+    "src/misc/part5/Pasted image 20240717174539.png",
+    "src/misc/part5/Pasted image 20240717174524.png",
+    "misc/images/part5_network.png",
+    "materials/src/README.md",
+    "materials/DO2_LinuxNetwork-1/src/misc/images/Pasted image 20240422114028.png",
+    "materials/DO2_LinuxNetwork-1/src/misc/images",
+    "materials/DO2_LinuxNetwork-1/src/README_RUS.md",
+    "materials/DO2_LinuxNetwork-1/src/test.sql",
+    "materials/DO2_LinuxNetwork-1/src/misc",
+    "materials/DO2_LinuxNetwork-1/src/README.md",
+    "materials/DO2_LinuxNetwork-1/src",
+    "materials/src/README_RUS.md",
+    "materials/DO2_LinuxNetwork-1/materials/etc/netplan/00-installer-config.yaml",
+    "materials/src/misc/images",
+    "materials/DO2_LinuxNetwork-1/materials/etc/netplan",
+    "materials/src/test.sql",
+    "materials/src/misc",
+    "materials/DO2_LinuxNetwork-1/misc/images",
+    "materials/DO2_LinuxNetwork-1/materials/topics-list_RUS.md",
+    "materials/DO2_LinuxNetwork-1/materials/topics-list.md",
+    "materials/DO2_LinuxNetwork-1/materials/static_routing.md",
+    "materials/DO2_LinuxNetwork-1/materials/network_routing.md",
+    "materials/DO2_LinuxNetwork-1/materials/iperf3.md",
+    "materials/DO2_LinuxNetwork-1/materials/ipcalc.md",
+    "materials/DO2_LinuxNetwork-1/materials/firewall.md",
+    "materials/DO2_LinuxNetwork-1/materials/NAT.md",
+    "materials/DO2_LinuxNetwork-1/materials/DHCP.md",
+    "materials/DO2_LinuxNetwork-1/README_RUS.md",
+    "materials/DO2_LinuxNetwork-1/README.md",
+    "materials/topics-list_RUS.md",
+    "materials/network_routing_RUS.md",
+    "materials/static_routing_RUS.md",
+    "materials/DHCP_RUS.md",
+    "materials/firewall_RUS.md",
+    "materials/NAT_RUS.md",
+    "materials/iperf3_RUS.md",
     "README_RUS.md",
-    "src/misc/part3/Pasted image 20240716170844.png",
-    "src/image-4.png",
-    "src/misc/part4",
-    "src/misc/part3",
-    "src/misc/part4/image-3.png",
-    "src/misc/part4/image-2.png",
-    "src/misc/part4/image-1.png",
-    "src/misc/part4/image.png",
-    "src/misc/part3/Pasted image 20240716170911.png",
-    "src/misc/part2/Pasted image 20240716154810.png",
-    "src/misc/part1/p1-2.png",
-    "src/misc/part2",
-    "src/misc/Untitled.md",
-    "src/readme.md",
-    "README.md"
+    "src/misc/Untitled.md"
   ]
 }

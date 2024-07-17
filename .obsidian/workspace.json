@@ -10,7 +10,7 @@
           {
             "id": "42a565b1c604206b",
             "type": "tabs",
-            "dimension": 48.76325088339223,
+            "dimension": 49.6113074204947,
             "children": [
               {
                 "id": "b8652568f6c50d36",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "src/misc/part5/Pasted image 20240717123311.png"
+                    "file": "src/misc/part5/Pasted image 20240717203634.png"
                   }
                 },
                 "group": "6053dc438a009d3c"
@@ -28,7 +28,7 @@
           {
             "id": "63fda36fb0deadde",
             "type": "tabs",
-            "dimension": 51.23674911660777,
+            "dimension": 50.3886925795053,
             "children": [
               {
                 "id": "df2ac9778f4bc137",
@@ -36,10 +36,20 @@
                 "state": {
                   "type": "image",
                   "state": {
-                    "file": "src/misc/part5/Pasted image 20240717123311.png"
+                    "file": "src/misc/part5/Pasted image 20240717203634.png"
                   }
                 },
                 "group": "6053dc438a009d3c"
+              },
+              {
+                "id": "0a5f867d11855032",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "misc/images/part5_network.png"
+                  }
+                }
               }
             ]
           }
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/misc/part5/Pasted image 20240717123311.png",
+                "file": "src/misc/part5/Pasted image 20240717203634.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/misc/part5/Pasted image 20240717123311.png",
+                "file": "src/misc/part5/Pasted image 20240717203634.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/misc/part5/Pasted image 20240717123311.png"
+                "file": "src/misc/part5/Pasted image 20240717203634.png"
               }
             }
           }
@@ -174,17 +184,17 @@
   "active": "fc10db8f009fc33b",
   "lastOpenFiles": [
     "src/readme_rus.md",
+    "src/misc/part5/Pasted image 20240717203634.png",
+    "src/misc/part5/Pasted image 20240717204658.png",
+    "src/misc/part5/Pasted image 20240717204457.png",
+    "misc/images/part5_network.png",
+    "src/Pasted image 20240717203948.png",
+    "src/misc/part5/Pasted image 20240717123311.png",
     "src/misc/part5/Pasted image 20240717175309.png",
     "src/misc/part5/Pasted image 20240717175257.png",
     "src/misc/part5/Pasted image 20240717175241.png",
     "src/misc/part5/Pasted image 20240717175001.png",
-    "src/misc/part5/Pasted image 20240717174944.png",
-    "src/misc/part5/Pasted image 20240717174856.png",
-    "src/misc/part5/Pasted image 20240717174539.png",
-    "src/misc/part5/Pasted image 20240717174524.png",
-    "misc/images/part5_network.png",
     "materials/src/README.md",
-    "materials/DO2_LinuxNetwork-1/src/misc/images/Pasted image 20240422114028.png",
     "materials/DO2_LinuxNetwork-1/src/misc/images",
     "materials/DO2_LinuxNetwork-1/src/README_RUS.md",
     "materials/DO2_LinuxNetwork-1/src/test.sql",
